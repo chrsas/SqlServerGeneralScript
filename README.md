@@ -1,0 +1,2 @@
+# SqlServerGeneralScript
+SqlServer常用脚本
